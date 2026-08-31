@@ -1,0 +1,27 @@
+# Build
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Generated benchmark data
+full_results.csv
+*_summary.txt
+numerical_results/
+.gemv_profile_*
+
+# Python
+__pycache__/
+*.pyc
+
+# Native build artifacts
+*.o
+*.a
+*.so
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
