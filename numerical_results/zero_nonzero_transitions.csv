@@ -1,0 +1,4 @@
+sweep,backend,last_zero_distance,first_nonzero_distance,first_nonzero_max_abs,first_nonzero_eta_over_u
+full_tomography,hipBLASLt,8192,16384,0.1162109375,39.616576518684703
+zoom_8k_16k,native,13312,13824,0.00048828125,0.1980362217597515
+zoom_8k_16k,hipBLASLt,10872,10880,0.00048828125,0.16701354772326046
